@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Touchless-kiosk-master
-=======
+
+This project is a Hand Gesture Based Aiport Checkin System. An React app that uses technologies tensorflow.js, media pipe hands. It contains confirmation of Airport rules and regulations,Booking ID and Seat Selection using Hand Gestures.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
